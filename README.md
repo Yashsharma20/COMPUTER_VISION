@@ -1,0 +1,1 @@
+This is the repository in which I'd upload my Computer Vision projects. Most of the projects require python version 3.9 or 3.10 and not the newer versions. All the libraries that are required other than python environement are mentioned in the requirements.txt file 
